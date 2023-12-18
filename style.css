@@ -336,7 +336,7 @@ body {
 	color: var(--dark);
 }
 #content main .head-title .left .breadcrumb li a {
-	color: var(--dark-grey);
+	color: var(--orange);
 	pointer-events: none;
 }
 #content main .head-title .left .breadcrumb li a.active {
@@ -501,7 +501,7 @@ body {
 	width: 100%;
 	margin-bottom: 16px;
 	background: var(--grey);
-	border-radius: 10px;
+	border-radius: 50px;
 	padding: 14px 20px;
 	display: flex;
 	justify-content: space-between;
